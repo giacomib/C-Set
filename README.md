@@ -1,9 +1,11 @@
 # C-Set
 
 ##Description
+
 A university project made in C++, implements the class Set, which is a set of non duplicated elements added by the users.
 
 ##Setup
+
 To compile and run the main you have to download the "Main Project" folder, then you have to use the command "make" from the command line
 to execute the makefile, you have to be in the same folder of "Main Project".
 
